@@ -30,7 +30,7 @@ public void herir(int Vidas){
 
 
 public void cambiarEspecie(){
-        this.especie;
+        this.especie="s";
     }
 
 public void cambiarEspecie (String nuevaEspecie){
